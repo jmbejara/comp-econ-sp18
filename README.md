@@ -1,8 +1,9 @@
 ECON 21410: Computational Methods in Economics
 ==============================================
 
-Schedule and Assignments
+# Syllabus
 
+[The class syllabus can be found here.](https://github.com/jmbejara/comp-econ-sp18/blob/master/Syllabus-Computational-Economics.pdf)
 
 # Notes
 
