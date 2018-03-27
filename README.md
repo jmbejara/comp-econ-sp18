@@ -51,9 +51,7 @@ There should be about 19 classes and 9 TA sessions (first Monday excluded). This
 
     * *Distribute Assignment 0*
 
-        * Installing the Anaconda Python Distribution, GitKraken, get account on GitHub, Install Text Editor (Visual Studio Code), Install LaTeX (TexLive or MacTex), and Install TexStudio
-
-        * Watch Jake VanderPlas’ Keynote address, which gives an introduction to the PyData world: [https://www.youtube.com/watch?v=DifMYH3iuFw](https://www.youtube.com/watch?v=DifMYH3iuFw)
+        * [You can find HW 0 here.](./HW/hw-00/readme.md)
 
 * Class 2: Thursday, March 29
 
