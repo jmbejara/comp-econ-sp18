@@ -42,9 +42,8 @@ There should be about 19 classes and 9 TA sessions (first Monday excluded). This
     * Go over points from [Gentzkow and Shapiro’s *Practitioner’s Guide*](https://web.stanford.edu/~gentzkow/research/CodeAndData.pdf)
     * [QuantEcon: "About Python](https://lectures.quantecon.org/py/about_py.html)"
         * Include demos. These should include interactive plots, widgets, LaTeX
-        * Demo: Schelling’s Segregation Model
     * Python Basics Pretest (in class assessment)
-        * If you pass, you can skip the "Whirlwind Tour of Python" assignment. I will be holding a few hours of lectures on Saturday to go over “A Whirlwind Tour of Python.” I will help students with the assignment.
+        * If you pass, you can skip the "Python Basics" part of Assignment 0. I will be holding a few hours of lectures on Saturday to go over “A Whirlwind Tour of Python.” I will help students with the assignment.
     * *Distribute Assignment 0*
         * [You can find HW 0 here.](./HW/hw-00/readme.md)
 * **Class 2: Thursday, March 29**
