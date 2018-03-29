@@ -72,7 +72,8 @@ There should be about 19 classes and 9 TA sessions (first Monday excluded). This
 * **Class 4: Thursday, April 5**
     * [QuantEcon: "SciPy"](https://lectures.quantecon.org/py/scipy.html)
 * **Class 4a: Monday, April 9**
-    * [QuantEcon: "Object Oriented Programming"](https://lectures.quantecon.org/py/python_oop.html)
+    * [QuantEcon: "Object Oriented Programming I"](https://lectures.quantecon.org/py/oop_intro.html)
+    * [QuantEcon: "Object Oriented Programming II"](https://lectures.quantecon.org/py/python_oop.html)
     * **Due: Assignment 1**
     * *Distribute Assignment 2*
         * Pandas Basics
