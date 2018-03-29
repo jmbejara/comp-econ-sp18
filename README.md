@@ -13,11 +13,12 @@ ECON 21410: Computational Methods in Economics
 * **TA Office Hours:** TBD
 * **Website:** Canvas will be used for grades. Homeworks and notes will be posted on the course GitHub repo: https://github.com/jmbejara/comp-econ-sp18
 
-
 # Notes
 
 There should be about 19 classes and 9 TA sessions (first Monday excluded). This means that we have 28 in-class sessions total before the reading period.
 
+
+* We will have one midterm. It will take place on Monday, April 30 during the regularly scheduled TA session, 7:30-8:30 PM in SHFE 103.
 * Read the lectures ahead of time. The lectures (from, e.g., QuantEcon or the Python Data Science Handbook) have hyperlinks to the appropriate text.
 
 **Books Used**
