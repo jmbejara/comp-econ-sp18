@@ -8,9 +8,9 @@ ECON 21410: Computational Methods in Economics
 * **Class:** Tuesdays and Thursdays, 3:30 - 4:50 PM in SHFE 103
 * **TA Session:** Mondays 7:30-8:30 PM in SHFE 103
 * **Lecturer:** Jeremy Bejarano, jbejarano@uchicago.edu
-* **Office Hours:** Time TBD, in the graduate commons (SHFE 201)
+* **Office Hours:** by appointment
 * **Teaching Assistant:** Philip Xinyu Cao, xinyucao@uchicago.edu
-* **TA Office Hours:** TBD
+* **TA Office Hours:** Mondays, 1:45-2:45, in the graduate commons (SHFE 201)
 * **Website:** Canvas will be used for grades. Homeworks and notes will be posted on the course GitHub repo: https://github.com/jmbejara/comp-econ-sp18
 
 # Notes
