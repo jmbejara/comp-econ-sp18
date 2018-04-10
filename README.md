@@ -77,4 +77,8 @@ There should be about 19 classes and 9 TA sessions (first Monday excluded). This
     * **Due: Assignment 1**
     * *Distribute Assignment 2*
         * Pandas Basics
-
+* **Class 5: Tuesday, April 10**
+    * Introduction to Pandas
+* **Class 6: Thursday, April 12**
+    * Quandl
+    * Introduction to Pandas, continued
