@@ -6,4 +6,4 @@ This homework is due on Monday, 4/15 at **7:00 PM**. The TA will go over the HW 
  - Exploring Economic data: Solve the exercises in the Jupyter notebook called `quandl-first-steps.ipynb`.
  - Economics Application: Solve the exercises in the Jupyter notebook called `schelling_segregation_model.ipynb`.
 
-
+When you are done with this assignment, please fill out this survey to let me know how long it took to complete the assignment: https://goo.gl/forms/I5ILytdXnG8ufHc12
