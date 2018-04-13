@@ -44,7 +44,7 @@ There should be about 19 classes and 9 TA sessions (first Monday excluded). This
     * [QuantEcon: "About Python](https://lectures.quantecon.org/py/about_py.html)"
         * Include demos. These should include interactive plots, widgets, LaTeX
     * Python Basics Pretest (in class assessment)
-        * If you pass, you can skip the "Python Basics" part of Assignment 0. I will be holding a few hours of lectures on Saturday to go over “A Whirlwind Tour of Python.” I will help students with the assignment.
+        * I will be holding a few hours of lectures on Saturday to go over “A Whirlwind Tour of Python.” I will help students with the assignment.
     * *Distribute Assignment 0*
         * [You can find HW 0 here.](./HW/hw-00/readme.md)
 * **Class 2: Thursday, March 29**
@@ -77,8 +77,43 @@ There should be about 19 classes and 9 TA sessions (first Monday excluded). This
     * **Due: Assignment 1**
     * *Distribute Assignment 2*
         * Pandas Basics
-* **Class 5: Tuesday, April 10**
+
+## Data Wrangling with Python
+
+* **Class 5: [Tuesday, April 10](./lectures/4-10_Pandas_Intro)**
     * Introduction to Pandas
-* **Class 6: Thursday, April 12**
+* **Class 6: [Thursday, April 12](./lectures/4-12_Pandas_Intro_Continued)**
     * Quandl
     * Introduction to Pandas, continued
+    * [PDSH: "Hierarchical Indexing"](https://jakevdp.github.io/PythonDataScienceHandbook/03.05-hierarchical-indexing.html)
+    * In-Class Exercise (occupations notebook)
+    * [PDSH: "Handling Missing Data"](https://jakevdp.github.io/PythonDataScienceHandbook/03.04-missing-values.html)  (read on your own)
+* **Class 6a: Monday, April 16**
+    * Go over any questions from HW 2
+    * [QuantEcon: Writing Good Code](https://lectures.quantecon.org/py/writing_good_code.html)
+    * **Due Assignment 2**
+    * *Distribute Assignment 3*
+        * Data Munging with Pandas
+* **Class 7: Tuesday, April 17**
+    * [PDSH: "Combining Datasets: Concat and Append"](https://jakevdp.github.io/PythonDataScienceHandbook/03.06-concat-and-append.html)
+    * [PDSH: "Combining Datasets: Merge and Join"](https://jakevdp.github.io/PythonDataScienceHandbook/03.07-merge-and-join.html)
+    * [PDSH: "Aggregation and Grouping"](https://jakevdp.github.io/PythonDataScienceHandbook/03.08-aggregation-and-grouping.html)
+* **Class 8: Thursday, April 19**
+    * [PDSH: "Pivot Tables"](https://jakevdp.github.io/PythonDataScienceHandbook/03.09-pivot-tables.html)
+    * [PDSH: "Working with Time Series"](https://jakevdp.github.io/PythonDataScienceHandbook/03.11-working-with-time-series.html)
+    * [PDSH: "High-Performance Pandas: eval() and query()"](https://jakevdp.github.io/PythonDataScienceHandbook/03.12-performance-eval-and-query.html)
+    * [PDSH: "Further Resources"](https://jakevdp.github.io/PythonDataScienceHandbook/03.13-further-resources.html) (Read on your own.)
+* **Class 8a: Monday, April 23**
+    * [PDSH: "Vectorized String Operations"](https://jakevdp.github.io/PythonDataScienceHandbook/03.10-working-with-strings.html)
+    * [PDA: "Data Loading, Storage, and File Formats"](http://nbviewer.jupyter.org/github/pydata/pydata-book/blob/2nd-edition/ch06.ipynb) 
+    * **Due Assignment 3**
+    * *Distribute Assignment 4*
+        * Summarizing and Visualizing Data
+* **Class 9: Tuesday, April 24**
+    * Data visualization with Python
+* **Class 10: Thursday, April 26**
+    * Data visualization with Python
+* **Class 10a: Monday, April 30**
+    * **Midterm**
+
+## Econometrics with Python (and R)
