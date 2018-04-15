@@ -85,35 +85,35 @@ There should be about 19 classes and 9 TA sessions (first Monday excluded). This
 * **Class 6: [Thursday, April 12](./lectures/4-12_Pandas_Intro_Continued)**
     * Quandl
     * Introduction to Pandas, continued
-    * [PDSH: "Hierarchical Indexing"](https://jakevdp.github.io/PythonDataScienceHandbook/03.05-hierarchical-indexing.html)
     * In-Class Exercise (occupations notebook)
     * [PDSH: "Handling Missing Data"](https://jakevdp.github.io/PythonDataScienceHandbook/03.04-missing-values.html)  (read on your own)
-* **Class 6a: Monday, April 16**
+* **Class 6a: [Monday, April 16](./lectures/4-16_TA_Session)**
     * Go over any questions from HW 2
-    * [QuantEcon: Writing Good Code](https://lectures.quantecon.org/py/writing_good_code.html)
+    * [PDSH: "Hierarchical Indexing"](https://jakevdp.github.io/PythonDataScienceHandbook/03.05-hierarchical-indexing.html)
     * **Due Assignment 2**
     * *Distribute Assignment 3*
         * Data Munging with Pandas
-* **Class 7: Tuesday, April 17**
+* **Class 7: [Tuesday, April 17](./lectures/4-17_Combining_Datasets)**
     * [PDSH: "Combining Datasets: Concat and Append"](https://jakevdp.github.io/PythonDataScienceHandbook/03.06-concat-and-append.html)
     * [PDSH: "Combining Datasets: Merge and Join"](https://jakevdp.github.io/PythonDataScienceHandbook/03.07-merge-and-join.html)
-    * [PDSH: "Aggregation and Grouping"](https://jakevdp.github.io/PythonDataScienceHandbook/03.08-aggregation-and-grouping.html)
-* **Class 8: Thursday, April 19**
-    * [PDSH: "Pivot Tables"](https://jakevdp.github.io/PythonDataScienceHandbook/03.09-pivot-tables.html)
-    * [PDSH: "Working with Time Series"](https://jakevdp.github.io/PythonDataScienceHandbook/03.11-working-with-time-series.html)
-    * [PDSH: "High-Performance Pandas: eval() and query()"](https://jakevdp.github.io/PythonDataScienceHandbook/03.12-performance-eval-and-query.html)
-    * [PDSH: "Further Resources"](https://jakevdp.github.io/PythonDataScienceHandbook/03.13-further-resources.html) (Read on your own.)
-* **Class 8a: Monday, April 23**
-    * [PDSH: "Vectorized String Operations"](https://jakevdp.github.io/PythonDataScienceHandbook/03.10-working-with-strings.html)
     * [PDA: "Data Loading, Storage, and File Formats"](http://nbviewer.jupyter.org/github/pydata/pydata-book/blob/2nd-edition/ch06.ipynb) 
+    * [QuantEcon: Writing Good Code](https://lectures.quantecon.org/py/writing_good_code.html) (Read on your own)
+* **Class 8: [Thursday, April 19](./lectures/4-19_Aggregation_and_Grouping)**
+    * [PDSH: "Aggregation and Grouping"](https://jakevdp.github.io/PythonDataScienceHandbook/03.08-aggregation-and-grouping.html)
+    * [PDSH: "Pivot Tables"](https://jakevdp.github.io/PythonDataScienceHandbook/03.09-pivot-tables.html)
+    * [PDSH: "High-Performance Pandas: eval() and query()"](https://jakevdp.github.io/PythonDataScienceHandbook/03.12-performance-eval-and-query.html)
+* **Class 8a: [Monday, April 23](./lectures/4-23_TA_Session)**
+    * [PDSH: "Vectorized String Operations"](https://jakevdp.github.io/PythonDataScienceHandbook/03.10-working-with-strings.html)
     * **Due Assignment 3**
     * *Distribute Assignment 4*
         * Summarizing and Visualizing Data
-* **Class 9: Tuesday, April 24**
-    * Data visualization with Python
-* **Class 10: Thursday, April 26**
+* **Class 9: [Tuesday, April 24](./lectures/4-24_Time_Series)**
+    * [PDSH: "Working with Time Series"](https://jakevdp.github.io/PythonDataScienceHandbook/03.11-working-with-time-series.html)
+    * [PDSH: "Further Resources"](https://jakevdp.github.io/PythonDataScienceHandbook/03.13-further-resources.html) (Read on your own.)
+* **Class 10: [Thursday, April 26](./lectures/4-26_Visualization)**
     * Data visualization with Python
 * **Class 10a: Monday, April 30**
     * **Midterm**
+    * In-Class midterm, starts at 7:30. You will need to bring your laptop with you to complete the midterm. The midterm will be similar to the HW assignments.signments.
 
 ## Econometrics with Python (and R)
