@@ -1,6 +1,10 @@
 Useful Resources
 ================
 
+# Python Resources
+
+ - [Formatting Strings](https://docs.python.org/3.4/library/string.html#format-string-syntax)
+
 # Pandas Resources
 
  - [Pandas Cheat Sheet from PandasDev](https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf)
