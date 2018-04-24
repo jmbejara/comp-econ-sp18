@@ -9,6 +9,9 @@ Useful Resources
 
  - [Pandas Cheat Sheet from PandasDev](https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf)
  - [Pandas Cheat Sheet from DataCamp](https://www.datacamp.com/community/blog/pandas-cheat-sheet-python)
+ - Adding and Subtracting Time:
+     - Timedelta: https://pandas.pydata.org/pandas-docs/stable/timedeltas.html
+     - Accounting for leap years when subtracting a year---comparing `DateOffset` and `dateutil.relativedelta`: https://stackoverflow.com/a/31169977/1411791
 
 # Pandas and R
 
