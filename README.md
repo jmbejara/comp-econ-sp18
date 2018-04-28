@@ -20,6 +20,7 @@ There should be about 19 classes and 9 TA sessions (first Monday excluded). This
 
 * We will have one midterm. It will take place on Monday, April 30 during the regularly scheduled TA session, 7:30-8:30 PM in SHFE 103.
 * Read the lectures ahead of time. The lectures (from, e.g., QuantEcon or the Python Data Science Handbook) have hyperlinks to the appropriate text.
+* Solutions to the homework will be posted in a separate GitHub repo, found here: https://github.com/econ-21410-sp18/comp-econ-hw-jbejarano1 
 
 **Books Used**
 
