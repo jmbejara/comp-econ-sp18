@@ -5,5 +5,3 @@
  - TBD: SQL
 
 This assignment is due on GitHub by **Wednesday, May 16th at 11:59 pm**.
-
-This is a temporary edit.
