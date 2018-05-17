@@ -1,3 +1,5 @@
+*.Rhistory
+
 # Data files
 *.csv
 *.zip
