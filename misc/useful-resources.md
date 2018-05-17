@@ -24,6 +24,7 @@ Useful Resources
 
  - [Basic R Data Types](https://www.statmethods.net/input/datatypes.html)
  - There is a book called ["Applied Econometrics in R"](https://www.springer.com/us/book/9780387773162) that is very helpful. It also has an [R package](https://cran.r-project.org/web/packages/AER/) containing code and data to go along with the book.
+ - Useful [tutorials on econometric procedures in R and Stata](https://dss.princeton.edu/training/). In particular, there is a Difference-in-Difference tutorial, Fixed/Random Effects, Logit, Time Series
 
 ## Data Wrangling and Data Science in R
 
