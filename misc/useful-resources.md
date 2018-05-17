@@ -23,6 +23,7 @@ Useful Resources
 ## R Basics
 
  - [Basic R Data Types](https://www.statmethods.net/input/datatypes.html)
+ - There is a book called ["Applied Econometrics in R"](https://www.springer.com/us/book/9780387773162) that is very helpful. It also has an [R package](https://cran.r-project.org/web/packages/AER/) containing code and data to go along with the book.
 
 ## Data Wrangling and Data Science in R
 
