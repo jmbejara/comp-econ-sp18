@@ -1,6 +1,6 @@
 # HW 7
 
- - Watch [these 4 videos about data wrangling in R](https://www.youtube.com/playlist?list=PL9HYL-VRX0oQOWAFoKHFQAsWAI3ImbNPk). There is no need to report that you completed this. However, you should remember the basic concepts of "tidy data" as there may be a conceptual question about it on the final. 
+ - Watch [these 4 videos about data wrangling in R](https://www.youtube.com/playlist?list=PL9HYL-VRX0oQOWAFoKHFQAsWAI3ImbNPk). There is no need to report that you completed this. However, it will be helpful for the R section of this assignment.
  - Redo the Chipotle assignment from HW 3. This time do it in R. This is to familiarize yourself with R's "Tidyverse", starting with `readr`, `dplyr`, and `ggplot2`. See the "Chipotle in R" section below for details.
  - Perform a Monte Carlo experiment to demonstrate Instrumental Variables estimation. See the section "Instrumental Variables Monte Carlo" below for details.
  - Complete the Fixed Effects exercises. Do each exercises *in Python and in R.* See the "Fixed Effects Exercises" section below for more details.
@@ -11,6 +11,7 @@
 
   - Redo the chipotle assignment, this time using R and packages from the "Tidyverse." That is, use `dplyr` and `readr` when you can along with the `%>%` pipe operator.
   - Redo all of the questions. Be sure to clearly label each question number and the corresponding solution.
+  - I recommend submitting the code as a `.R` file (e.g. `chipotle.R`). However, you may use R markdown or an R notebook if you wish.
 
 **2 points for each question in the Chipotle exercises**
 
