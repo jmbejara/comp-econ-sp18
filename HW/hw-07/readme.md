@@ -5,7 +5,7 @@
  - Perform a Monte Carlo experiment to demonstrate Instrumental Variables estimation. See the section "Instrumental Variables Monte Carlo" below for details.
  - Complete the Fixed Effects exercises. Do each exercises *in Python and in R.* See the "Fixed Effects Exercises" section below for more details.
 
-
+**This assignment is due May 23 at 11:59 pm.**
 
 ## Chipotle in R
 
