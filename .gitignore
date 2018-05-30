@@ -110,3 +110,15 @@ ENV/
 # Swap files
 ~*
 README\.html
+
+*.aux
+
+*.fdb_latexmk
+
+*.fls
+
+*.out
+
+*.gz
+
+*.xdv
