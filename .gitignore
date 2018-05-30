@@ -122,3 +122,7 @@ README\.html
 *.gz
 
 *.xdv
+
+*.pygtex
+
+*.pygstyle
