@@ -1,6 +1,8 @@
 ECON 21410: Computational Methods in Economics
 ==============================================
 
+**NOTE:** *Please see the updated Spring 2019 version of this class [here](https://github.com/jmbejara/comp-econ-sp19)*
+
 # Syllabus
 
 [The full class syllabus can be found here.](https://github.com/jmbejara/comp-econ-sp18/blob/master/Syllabus-Computational-Economics.pdf)
